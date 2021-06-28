@@ -40,7 +40,7 @@ This is the main marketing website for The Golf Academy. It is designed to be re
 
     -   Desktop Wireframe - [View](https://github.com/tcostain98/Milestone1/blob/bbf8007e25092b8acc7436c392afef570dfb62d9/The%20Golf%20Academy%20Wireframe%20Desktop.pdf)
 
-    -   Mobile Wireframe - [View](C:\Users\44771\OneDrive\Documents\GitHub\Tcostain-workbook\The golf Academy Mobile Wireframe.bmpr)
+    -   Mobile Wireframe - [View](https://github.com/tcostain98/Milestone1/blob/9cb2697f244e597c9be1c26c266f72a1a705dd11/The%20Golf%20Academy%20Mobile%20Wireframe.pdf)
 
     -   Tablet Wireframe - [View](https://github.com/tcostain98/Milestone1/blob/9d91253ef225f8c6c6961fac51651a404aa1d99c/The%20Golf%20Academy%20Tablet%20Wireframe.pdf)
 
