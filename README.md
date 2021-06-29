@@ -39,11 +39,11 @@ This is the main marketing website for The Golf Academy. It is designed to be re
 
 *   ### Wireframes
 
-    -   Desktop Wireframe - [View](https://github.com/tcostain98/Milestone1/blob/343eb9921519eb48575ae086210319b39359ac28/The%20Golf%20Academy%20Wireframe%20Desktop.pdf)
+    -   Desktop Wireframe - [View](https://github.com/tcostain98/Tcostain-workbook/blob/d914406e0631e264d5a4165c5f3fc57678e8cdd6/The%20Golf%20Academy%20Wireframe%20Desktop.pdf)
 
-    -   Tablet Wireframe - [View](https://github.com/tcostain98/Milestone1/blob/88af55af7d6b171b8e840c40baad0513565222c5/The%20Golf%20Academy%20Tablet%20Wireframe.pdf)
+    -   Tablet Wireframe - [View](https://github.com/tcostain98/Tcostain-workbook/blob/eb13f244d80a12449305c5f21a38270c37aace7e/The%20Golf%20Academy%20Tablet%20Wireframe.pdf)
 
-    -   Mobile Wireframe - [View](https://github.com/tcostain98/Milestone1/blob/6f6fcbd21389e2f2d39f409a72614101bd3419c8/The%20Golf%20Academy%20Mobile%20Wireframe.pdf)
+    -   Mobile Wireframe - [View](https://github.com/tcostain98/Tcostain-workbook/blob/f36e424faaebabe9bb3d3281f86879fa90eaf996/The%20Golf%20Academy%20Mobile%20Wireframe.pdf)
 
 ## Features
 
@@ -80,8 +80,8 @@ This is the main marketing website for The Golf Academy. It is designed to be re
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftcostain-workbook.tcostain.repl.co%2Findex.html)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftcostain-workbook.tcostain.repl.co%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftcostain-milestone1.tcostain.repl.co%2F)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftcostain-milestone1.tcostain.repl.co%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -158,7 +158,7 @@ The project was deployed to GitHub Pages using the following steps...
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com/tcostain98/Milestone1) in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
 
 ### Forking the GitHub Repository
 
@@ -184,7 +184,7 @@ $ git clone https://github.com/tcostain98/Tcostain-workbook
 7. Press Enter. Your local clone will be created.
 
 ```
-$ git clone https://github.com/tcostain98/Milestone1
+$ git clon ehttps://github.com/tcostain98/Milestone1
 > Cloning into `CI-Clone`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
@@ -194,6 +194,7 @@ $ git clone https://github.com/tcostain98/Milestone1
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
+## Credits
 
  
 
