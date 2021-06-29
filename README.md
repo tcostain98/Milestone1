@@ -2,7 +2,7 @@
 
 <h1 align="center">The Golf Academy Website</h1>
 
-[View the live project here.](https://Tcostain-workbook.tcostain.repl.co)
+[View the live project here.](https://tcostain98.github.io/Milestone1/)
 
 This is the main marketing website for The Golf Academy. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential clients and partners.
 
