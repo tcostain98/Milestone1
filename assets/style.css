@@ -2,7 +2,8 @@ body {
 	font-family:'Times New Roman', Times, serif;
 	margin: 0;
 	background-color: rgb(59, 153, 84);
-  color: lightgray; 
+  color: black; 
+  line-height: 26px;
 }
 
 h1,h2,h3,h4 {
@@ -143,6 +144,7 @@ margin: 10px;
   width: 310px;
   height: 300px;
   float: left;
+  color: white;
 }
 
 #intermediate-lessons {
@@ -154,6 +156,8 @@ padding: 30px;
   width: 310px;
   height: 300px;
   float: right;
+  color: white;
+
   }
 
 
@@ -165,6 +169,7 @@ padding: 30px;
   opacity: 75%;
   width: 310px;
   height: 300px;
+  color: white;
   
 }
 
@@ -500,7 +505,7 @@ html {
 }
 
 .title {
-  color: lightgray;
+  color: black;
   font-weight: bold;
   text-decoration:underline;
 }
@@ -523,3 +528,6 @@ html {
 
 
 
+img {
+  width: 100%;
+}
