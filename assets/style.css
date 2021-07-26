@@ -40,6 +40,7 @@ h4{
 
 header {
 	color: lightgray;
+  line-height: 50px;
   
 }
 
@@ -109,7 +110,7 @@ nav {
 nav > a {
 	text-decoration: none;
 	color: hsl(0, 0%, 50%);
-	margin: 1rem;
+	margin: 0.1rem;
 }
 
 nav > a:hover {
@@ -214,8 +215,9 @@ padding: 1rem 0;
 
 
 #contact {
-  margin: 21%;
-  margin-bottom: 50%;
+ margin-bottom: 150px;
+ 
+
 
 }
 
@@ -243,9 +245,6 @@ padding: 1rem 0;
 }
 
 .contact-box-center {
-   width: 295px;
-    height: 250px;
-    margin: -15px auto;
     text-align: center;
 }
 
