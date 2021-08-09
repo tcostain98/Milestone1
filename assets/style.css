@@ -300,6 +300,13 @@ footer > p {
 	display: block;
 }
 
+#about{
+  padding: 15px 15px 25px 15px;
+	background-color: black;
+  opacity: 75% ;
+   top: 30px;
+   color: lightgrey;
+}
 
 
 
@@ -474,8 +481,7 @@ html {
 
 .column {
   float: left;
-  width: 50%;
-  margin-left: 25%;
+ 
   margin-bottom: 150px;
   padding: 0 20px;
 }
