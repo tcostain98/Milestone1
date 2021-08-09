@@ -231,13 +231,13 @@ padding: 1rem 0;
 }
 
 .contact-box-left {
-  float: left;
+
    display: inline-block;
 }
 
 
 .contact-box-right {
-    float: right;
+
    display: inline-block;
 }
 
