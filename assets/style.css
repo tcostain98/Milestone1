@@ -216,28 +216,29 @@ padding: 1rem 0;
 
 #contact {
  margin-bottom: 150px;
+ padding: 15px 15px 25px 15px;
+ background-color: black;
+ opacity: 75% ;
+  top: 30px;
+  color: lightgrey;
  
 
 
 }
 
 .contact-boxes-container {
-       width: 100%;
-    margin: 0 auto;
+ display: inline-block;
 }
 
 .contact-box-left {
-   width: 250px;
-   
-    float: left;
+  float: left;
+   display: inline-block;
 }
 
 
 .contact-box-right {
-    
-    text-align: right;
-    
     float: right;
+   display: inline-block;
 }
 
 .spacer {
@@ -307,6 +308,8 @@ footer > p {
    top: 30px;
    color: lightgrey;
 }
+
+
 
 
 
