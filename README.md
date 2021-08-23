@@ -4,7 +4,7 @@
 
 [View the live project here.](https://tcostain98.github.io/Milestone1/)
 
-![Responsive Mockup](https://github.com/tcostain98/Milestone-2JS/blob/5dd7ecc92545a4e4ea5ab4efb31fd92226c90574/AmIResponsiveJavaScript2.jpg)
+![Responsive Mockup](https://github.com/tcostain98/Milestone1/blob/6e80d0039cadcec3d562ec815fcaee693e0d1def/Am%20i%20Responsive_ms1.jpeg)
 
 This is the main marketing website for The Golf Academy. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential clients and partners.
 
