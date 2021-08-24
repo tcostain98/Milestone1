@@ -1,3 +1,7 @@
+html{
+  overflow: hidden;
+}
+
 body {
 	font-family:'Times New Roman', Times, serif;
 	margin: 0;
@@ -545,4 +549,15 @@ html {
 
 img {
   width: 100%;
+}
+
+@media screen and (max-width:1200px){
+
+}
+@media screen and (max-width:950px){
+
+}
+
+@media screen and (max-width:800px) {
+  
 }
