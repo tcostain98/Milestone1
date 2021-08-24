@@ -227,12 +227,19 @@ padding: 1rem 0;
 }
 
 .contact-boxes-container {
- display: inline-block;
+  display: inline-table;
+  width: 100%;
+  position: relative;
 }
 
 .contact-box-left {
 
-   display: inline-block;
+  display: inherit;
+  width: 33%;
+}
+
+.contact-box-left h4, .contact-box-left table {
+  width: 100%;
 }
 
 
